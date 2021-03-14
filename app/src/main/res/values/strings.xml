@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraPhoto</string>
+    <string name="image_view_description">Imagem capturada da camera</string>
+</resources>
